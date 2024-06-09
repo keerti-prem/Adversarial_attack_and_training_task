@@ -1,5 +1,5 @@
 # Adversarial_attack_and_training_task (Please go through the uploaded pdf report for detailed info.)
-(Readme is in Progress....)
+(Readme is in Progress....will be updated)
 
 Demonstration and Implementation of Adversarial Attack and Adversarial training based on PGD attack for MNIST using Pytorch 
 
